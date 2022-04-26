@@ -183,7 +183,7 @@ In a function, we already have `setCount` and `count` as variables so we don't n
 
 ```js{1}
   <button onClick={() => setCount(count + 1)}>
-    Click me
+    Click you
   </button>
 ```
 
